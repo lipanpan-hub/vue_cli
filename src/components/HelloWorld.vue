@@ -3,7 +3,7 @@
         <h1>{{ msg }}</h1>
         <h3>Installed CLI Plugins</h3>
         <h1>VUE CLI 学习 哈哈</h1>
-        <button>哈哈</button>
+        <button>哈哈得到的</button>
     </div>
 </template>
 
