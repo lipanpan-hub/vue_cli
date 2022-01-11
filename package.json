@@ -10,7 +10,6 @@
   "dependencies": {
     "@vue/cli-plugin-babel": "4.5.15",
     "babel-plugin-import": "1.13.3",
-    "element-ui": "2.15.6",
     "vant": "2.12.38",
     "vue": "^2.6.11",
     "vue-selector": "0.0.1"
