@@ -1,0 +1,7 @@
+{
+    // "files.autoSave": "afterDelay", // 不能用这个选项 afterdelay 会让editor出现bug
+    // "files.autoSaveDelay": 500,
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+}
